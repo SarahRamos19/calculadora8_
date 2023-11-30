@@ -1,4 +1,4 @@
-input('Qual Operaçao voce deseja fazer: ?')
+print('Vamos calcular !')
 primeiro= input ('Primeiro numero:')
 Segundo= input('Segundo numero:')
 
